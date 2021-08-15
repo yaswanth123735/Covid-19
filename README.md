@@ -1,2 +1,2 @@
 # Covid-19
-[output]{https://login69.herokuapp.com/}
+[output]{https://quartziferous-circu.000webhostapp.com/covid/}
