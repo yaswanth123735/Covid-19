@@ -1,2 +1,2 @@
 # Covid-19
-[output]{https://quartziferous-circu.000webhostapp.com/covid/}
+[output]{https://yaswanth123735.github.io/Covid-19/}
